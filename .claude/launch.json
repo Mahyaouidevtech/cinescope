@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gimnasio-template-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "/Users/eliasmahyaoui/Desktop/gimnasio-template", "run", "dev"],
+      "port": 3000
+    }
+  ]
+}
